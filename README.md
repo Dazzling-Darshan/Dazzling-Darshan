@@ -108,14 +108,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dazzling-Darshan/Dazzling-Darshan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dazzling-Darshan/Dazzling-Darshan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dazzling-Darshan/Dazzling-Darshan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp5YW8xY2N4ZzFiYm5yemMycGFsZzIwaGxuazdsaHN4MXhsa2czOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 </div>
