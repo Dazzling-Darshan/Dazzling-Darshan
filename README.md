@@ -20,7 +20,9 @@
     <a href="https://github.com/Dazzling-Darshan">
       <img src="https://komarev.com/ghpvc/?username=Dazzling-Darshan&label=PROFILE+VIEWS&style=for-the-badge&color=00F2FE&labelColor=090D16" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/LeetCode-450%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=090D16" alt="LeetCode 450+ Solved" />
+    <a href="https://leetcode.com/u/Prajapati_Darshan" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-450%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=090D16" alt="LeetCode 450+ Solved" />
+    </a>
     <img src="https://img.shields.io/badge/MSc_IT-DAU_(DA--IICT)-7928CA?style=for-the-badge&labelColor=090D16" alt="DA-IICT MSc IT" />
   </p>
 
@@ -31,6 +33,9 @@
     </a>
     <a href="https://github.com/Dazzling-Darshan" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/Prajapati_Darshan" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="mailto:202512026@dau.ac.in">
       <img src="https://img.shields.io/badge/Email-DAU-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="DAU Email" />
@@ -49,7 +54,7 @@
 
 - 🎓 **MSc IT Student** at **Dhirubhai Ambani University (DAU, Formerly DA-IICT)** (*2025 – Present | CPI: 8.03*).
 - 🏅 **Bachelor's in IT Graduate** from **GLS University** (*2022 – 2025 | CPI: 9.08 *).
-- 🧠 **Problem Solver:** Solved **450+ problems on LeetCode**, mastering Data Structures, Algorithms, and System Architecture.
+- 🧠 **Problem Solver:** Solved [**450+ problems on LeetCode**](https://leetcode.com/u/Prajapati_Darshan), mastering Data Structures, Algorithms, and System Architecture.
 - 💻 **Engineering Stack:** Full-Stack & Backend Developer specializing in **React 19, Node.js, Express, MongoDB, Redis, WebSockets, and Applied AI**.
 - 🤖 **Applied AI & GenAI Focus:** Experienced in building **RAG pipelines, Google Gemini multimodal integrations, vector embeddings, and semantic search**.
 - 🎯 **Career Focus:** Full Stack Development, Backend Engineering, Scalable Distributed Systems, and Applied AI.
