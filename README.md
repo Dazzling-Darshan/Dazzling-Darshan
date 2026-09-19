@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ==================== TOP NEON VECTOR BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=220&section=header&text=DARSHAN%20PRAJAPATI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Full%20Stack%20Architect%20%E2%80%A2%20AI%20%26%20Distributed%20Systems%20%E2%80%A2%20Open%20Source%20%E2%9A%A1&descAlignY=58&descSize=18&stroke=00F2FE&strokeWidth=1" width="100%" alt="Darshan Prajapati Header" />
+  <img src="assets/header.svg" width="100%" alt="Darshan Prajapati Header" />
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <p align="center">
@@ -308,10 +308,10 @@
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
+  <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=100&section=footer" width="100%" alt="Footer Divider" />
+  <img src="assets/footer.svg" width="100%" alt="Footer Divider" />
 
   <p align="center">
     ⚡ <b>Crafted with passion, caffeine, and neon photons by <a href="https://github.com/Dazzling-Darshan">Darshan Prajapati</a></b> ⚡
