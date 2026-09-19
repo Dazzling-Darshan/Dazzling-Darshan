@@ -21,7 +21,6 @@
       <img src="https://komarev.com/ghpvc/?username=Dazzling-Darshan&label=PROFILE+VIEWS&style=for-the-badge&color=00F2FE&labelColor=090D16" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/LeetCode-450%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=090D16" alt="LeetCode 450+ Solved" />
-    <img src="https://img.shields.io/badge/Rank_3_/_540+-GLS_University-FF007F?style=for-the-badge&labelColor=090D16" alt="Rank 3 of 540+" />
     <img src="https://img.shields.io/badge/MSc_IT-DAU_(DA--IICT)-7928CA?style=for-the-badge&labelColor=090D16" alt="DA-IICT MSc IT" />
   </p>
 
