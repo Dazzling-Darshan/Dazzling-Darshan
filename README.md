@@ -78,7 +78,7 @@
 
 <br/>
 
-### 💻 Skills Breakdown (As Per Resume)
+### 💻 Skills Breakdown
 
 - **Languages:** `Java`, `JavaScript (ES6+)`, `TypeScript`, `SQL`
 - **Frontend Development:** `React (React 19)`, `Redux Toolkit`, `TanStack React Query`, `Tailwind CSS`, `HTML5`, `CSS3`
