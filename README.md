@@ -54,7 +54,7 @@
 
 - 🎓 **MSc IT Student** at **Dhirubhai Ambani University (DAU, Formerly DA-IICT)** (*2025 – Present | CPI: 8.03*).
 - 🏅 **Bachelor's in IT Graduate** from **GLS University** (*2022 – 2025 | CPI: 9.08 *).
-- 🧠 **Problem Solver:** Solved [**450+ problems on LeetCode**](https://leetcode.com/u/Prajapati_Darshan), mastering Data Structures, Algorithms, and System Architecture.
+- 🧠 **Problem Solver:** Solved **450+ problems on LeetCode**, mastering Data Structures, Algorithms, and System Architecture.
 - 💻 **Engineering Stack:** Full-Stack & Backend Developer specializing in **React 19, Node.js, Express, MongoDB, Redis, WebSockets, and Applied AI**.
 - 🤖 **Applied AI & GenAI Focus:** Experienced in building **RAG pipelines, Google Gemini multimodal integrations, vector embeddings, and semantic search**.
 - 🎯 **Career Focus:** Full Stack Development, Backend Engineering, Scalable Distributed Systems, and Applied AI.
