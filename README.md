@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- ==================== HEADER BANNER ==================== -->
-  <img src="assets/header.svg" width="100%" alt="Darshan Prajapati Header" />
+  <img src="assets/header.svg" width="100%" alt="Darshankumar Prajapati Header" />
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <p align="center">
     <a href="https://github.com/Dazzling-Darshan">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=45&lines=%E2%9A%A1+Hey%2C+I'm+Darshan+Prajapati!;%F0%9F%9A%80+Full+Stack+Software+Engineer;%E2%9A%99%EF%B8%8F+Scalable+Backends+%26+Distributed+Systems;%F0%9F%A7%A0+AI+Engineering+%26+Cloud+Architecture;%F0%9F%92%A1+Turning+Ideas+Into+High-Performance+Products" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&height=45&lines=%E2%9A%A1+Hey%2C+I'm+Darshankumar+Prajapati!;%F0%9F%9A%80+Full+Stack+%26+Backend+Engineer;%F0%9F%A7%A0+Applied+AI+%26+RAG+Systems+Builder;%E2%9A%99%EF%B8%8F+Distributed+Systems+%26+Real-Time+WebSockets;%F0%9F%8F%86+450%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
     </a>
   </p>
 
@@ -15,32 +15,29 @@
 
   <br/><br/>
 
-  <!-- ==================== QUICK STATUS BADGES ==================== -->
+  <!-- ==================== HIGHLIGHT BADGES ==================== -->
   <p align="center">
     <a href="https://github.com/Dazzling-Darshan">
       <img src="https://komarev.com/ghpvc/?username=Dazzling-Darshan&label=PROFILE+VIEWS&style=for-the-badge&color=00F2FE&labelColor=090D16" alt="Profile Views" />
     </a>
-    <a href="https://github.com/Dazzling-Darshan?tab=followers">
-      <img src="https://img.shields.io/github/followers/Dazzling-Darshan?label=FOLLOWERS&style=for-the-badge&color=FF007F&labelColor=090D16" alt="Followers" />
-    </a>
-    <a href="https://github.com/Dazzling-Darshan?tab=repositories">
-      <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-00FF66?style=for-the-badge&labelColor=090D16" alt="Status Online" />
-    </a>
+    <img src="https://img.shields.io/badge/LeetCode-450%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=090D16" alt="LeetCode 450+ Solved" />
+    <img src="https://img.shields.io/badge/Rank_3_/_540+-GLS_University-FF007F?style=for-the-badge&labelColor=090D16" alt="Rank 3 of 540+" />
+    <img src="https://img.shields.io/badge/MSc_IT-DAU_(DA--IICT)-7928CA?style=for-the-badge&labelColor=090D16" alt="DA-IICT MSc IT" />
   </p>
 
-  <!-- ==================== SOCIAL LINKS ==================== -->
+  <!-- ==================== SOCIAL & CONTACT MATRIX ==================== -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/darshan-prajapati-29x" target="_blank">
+    <a href="https://www.linkedin.com/in/darshan-prajapati-0a105a305" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Dazzling-Darshan" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" />
     </a>
+    <a href="mailto:202512026@dau.ac.in">
+      <img src="https://img.shields.io/badge/Email-DAU-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="DAU Email" />
+    </a>
     <a href="https://www.instagram.com/darshan_29x" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:darshanprajapati29x@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -51,11 +48,12 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## 🚀 About Me
 
-- 💻 **Full Stack Software Engineer** specializing in resilient distributed backends, modern frontend ecosystems, and cloud systems.
-- 🧠 **Currently Mastering:** Distributed Systems, Scalable Database Design, Event-Driven Architecture, and AI Engineering.
-- 🛠️ **Engineering Focus:** Building high-concurrency, low-latency microservices and responsive web platforms using TypeScript, React, Next.js, Node.js, and Docker.
-- 🎯 **Mission:** Designing production-ready software solutions that scale seamlessly to millions of users.
-- ⚡ **Philosophy:** *"Write clean code, automate workflows, eliminate bottlenecks, and craft intuitive user experiences."*
+- 🎓 **MSc IT Student** at **Dhirubhai Ambani University (DAU, Formerly DA-IICT)** (*2025 – Present | CPI: 8.03*).
+- 🏅 **Bachelor's in IT Graduate** from **GLS University** (*2022 – 2025 | CPI: 9.08 | **3rd Rank among 540+ students***).
+- 🧠 **Problem Solver:** Solved **450+ problems on LeetCode**, mastering Data Structures, Algorithms, and System Architecture.
+- 💻 **Engineering Stack:** Full-Stack & Backend Developer specializing in **React 19, Node.js, Express, MongoDB, Redis, WebSockets, and Applied AI**.
+- 🤖 **Applied AI & GenAI Focus:** Experienced in building **RAG pipelines, Google Gemini multimodal integrations, vector embeddings, and semantic search**.
+- 🎯 **Career Focus:** Full Stack Development, Backend Engineering, Scalable Distributed Systems, and Applied AI.
 
 <br/>
 
@@ -72,23 +70,36 @@
 
 <br/>
 
-<!-- ==================== TECH STACK & SKILLS ==================== -->
-<h2 align="center">🛠️ Skills & Technologies</h2>
+<!-- ==================== TECH ARSENAL ==================== -->
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,nodejs,express,postgres,mongodb,redis,mysql,aws,docker,linux,git,github,c,java,vscode,postman,jest&perline=12&theme=dark" alt="Skills Grid" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,redux,tailwind,html,css,nodejs,express,postgres,mongodb,redis,mysql,docker,nginx,git,github,linux,vscode,postman&perline=11&theme=dark" alt="Technical Skills Grid" />
 </div>
 
 <br/>
 
-### 💻 Tech Arsenal Breakdown
+### 💻 Skills Breakdown (As Per Resume)
 
-- **Languages:** `JavaScript (ES6+)`, `TypeScript`, `C`, `Java`, `SQL`, `HTML5`, `CSS3`
-- **Frontend & UI:** `React.js`, `Next.js`, `Redux Toolkit`, `Tailwind CSS`, `Storybook`
-- **Backend & APIs:** `Node.js`, `Express.js`, `Socket.io`, `RESTful APIs`, `WebSockets`, `JWT`
-- **Databases & Caching:** `PostgreSQL`, `MongoDB`, `Redis`, `MySQL`
-- **Cloud & DevOps:** `Amazon Web Services (AWS)`, `Docker`, `Linux`, `Git`, `GitHub Actions`
-- **Testing & Tooling:** `Jest`, `VS Code`, `Postman`, `NPM`
+- **Languages:** `Java`, `JavaScript (ES6+)`, `TypeScript`, `SQL`
+- **Frontend Development:** `React (React 19)`, `Redux Toolkit`, `TanStack React Query`, `Tailwind CSS`, `HTML5`, `CSS3`
+- **Backend & Real-Time:** `Node.js`, `Express.js`, `RESTful APIs`, `WebSockets`, `Socket.io`, `Node-cron`
+- **Databases & Caching:** `MongoDB`, `PostgreSQL`, `MySQL`, `Redis`
+- **AI & Applied GenAI:** `Google Gemini Multimodal AI`, `Retrieval-Augmented Generation (RAG)`, `Vector Embeddings`, `Cosine Similarity`, `Semantic Search`, `Prompt Engineering`
+- **DevOps, Cloud & Servers:** `Docker`, `Docker Compose`, `Nginx`, `Vercel`, `Render`, `Cloudinary`, `ImageKit`
+- **Security & Authentication:** `JWT`, `HTTP-only Cookies`, `Role-Based Access Control (RBAC)`, `CORS`
+- **Developer Tools:** `Git`, `GitHub`, `Postman`, `VS Code`, `Linux Shell`
+- **Foundations & Coursework:** `Data Structures and Algorithms`, `System Design (HLD)`, `OOP`, `DBMS`, `Operating Systems`, `Computer Networks`
+
+<br/>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## 💡 Featured Projects
+
+| 🏷️ Project | 🛠️ Tech Stack & Key Highlights |
+| :--- | :--- |
+| **BidX – Real-Time AI Auction Marketplace**<br/><br/>⚡ *Live bidding platform with real-time events & multimodal AI intelligence* | • **Tech Stack:** `React 19`, `Node.js`, `Express.js`, `MongoDB`, `Socket.io`, `Google Gemini AI`<br/>• **Real-Time Bidding:** Engineered live bidding rooms with `Socket.io` supporting auction events, participant presence, and instant outbid alerts.<br/>• **Multimodal AI:** Integrated Google Gemini AI to analyze product images and automatically generate structured titles, categories, starting prices, and descriptions.<br/>• **Semantic Recommendations:** Built vector recommendation discovery using Gemini text embeddings & cosine similarity.<br/>• **Concurrency & Security:** Handled concurrent bids with atomic conditional MongoDB updates; protected with JWT auth and RBAC. |
+| **HireHub – AI-Powered Full-Stack Job Portal**<br/><br/>⚡ *Full-stack recruitment ecosystem with automated RAG career navigator* | • **Tech Stack:** `React 19`, `Node.js`, `Express.js`, `MongoDB`, `Redis`, `Gemini AI`, `RAG`, `Docker Compose`, `Nginx`<br/>• **Recruitment Workflows:** Comprehensive candidate and recruiter workflows for job discovery, ATS, and company administration.<br/>• **RAG Career Navigator:** Built a Retrieval-Augmented Generation (RAG) navigator using Gemini embeddings to match candidate profiles with opportunities.<br/>• **Performance & Rate Limiting:** Implemented Redis caching with TTL-based invalidation and Redis-backed API rate limiting for high-frequency routes.<br/>• **Containerization:** Configured reproducible multi-service deployment with Docker Compose, MongoDB, Redis, and Nginx. |
 
 <br/>
 
@@ -104,16 +115,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dazzling-Darshan&theme=radical" alt="Most Committed Language" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dazzling-Darshan&theme=radical" alt="Stats Summary" width="48%" />
 </p>
-
-<br/>
-
-<!-- ==================== FEATURED SYSTEMS ==================== -->
-## 💡 Engineering Focus & Highlights
-
-| 🌐 Full Stack Architecture | ⚙️ Scalable Distributed Systems |
-| :--- | :--- |
-| **High-Performance Web Platforms**<br/>• Interactive UI engineered with **Next.js**, **React**, and **TypeScript**<br/>• Styled with modern utility-first **Tailwind CSS**<br/>• Client-side state orchestration via **Redux Toolkit** | **Resilient Backend & Data Services**<br/>• Microservices and APIs built with **Node.js** and **Express.js**<br/>• Ultra-fast caching layers powered by **Redis**<br/>• Real-time duplex communication via **WebSockets (Socket.io)** |
-| **Database Design & Indexing**<br/>• Relational modeling with **PostgreSQL** and **MySQL**<br/>• Document stores with **MongoDB**<br/>• Query optimization and ACID-compliant transaction design | **DevOps & Cloud Native Deployment**<br/>• Containerization and multi-stage builds with **Docker**<br/>• Cloud infrastructure running on **AWS** and **Linux**<br/>• Continuous Integration pipelines via **GitHub Actions** |
 
 <br/>
 
@@ -134,11 +135,11 @@
   <img src="assets/footer.svg" width="100%" alt="Footer Divider" />
 
   <p align="center">
-    ⚡ <b>Crafted with passion, caffeine, and neon photons by <a href="https://github.com/Dazzling-Darshan">Darshan Prajapati</a></b> ⚡
+    ⚡ <b>Crafted with passion, caffeine, and neon photons by <a href="https://github.com/Dazzling-Darshan">Darshankumar Prajapati</a></b> ⚡
   </p>
 
   <p align="center">
-    <sub>© 2026 Dazzling-Darshan • Open to Collaborations & Engineering Roles</sub>
+    <sub>© 2026 Dazzling-Darshan • Open to Full Stack, Backend & Applied AI Engineering Roles</sub>
   </p>
 
 </div>
