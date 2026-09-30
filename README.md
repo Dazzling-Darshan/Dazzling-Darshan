@@ -6,7 +6,7 @@
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <p align="center">
     <a href="https://github.com/Dazzling-Darshan">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&height=45&lines=%E2%9A%A1+Hey%2C+I'm+Darshankumar+Prajapati!;%F0%9F%9A%80+Full+Stack+%26+Backend+Engineer;Distributed+Systems;" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&height=45&lines=%E2%9A%A1+Hey%2C+I'm+Darshankumar+Prajapati!;%F0%9F%9A%80+Full+Stack+%26+Backend+Engineer;" alt="Typing SVG" />
     </a>
   </p>
 
