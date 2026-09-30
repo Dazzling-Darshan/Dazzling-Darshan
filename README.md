@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ==================== HEADER BANNER ==================== -->
-  <img src="assets/header.svg" width="100%" alt="Darshankumar Prajapati Header" />
+  <img src="assets/header-banner.svg" width="100%" alt="Darshankumar Prajapati Header" />
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
   <p align="center">
