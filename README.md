@@ -54,10 +54,10 @@
 
 - 🎓 **MSc IT Student** at **Dhirubhai Ambani University (DAU, Formerly DA-IICT)** (*2025 – Present | CPI: 8.03*).
 - 🏅 **Bachelor's in IT Graduate** from **GLS University** (*2022 – 2025 | CPI: 9.08 *).
-- 🧠 **Problem Solver:** Solved [**450+ problems on LeetCode**](https://leetcode.com/u/Prajapati_Darshan), mastering Data Structures, Algorithms, and System Architecture.
+- 🧠 **Problem Solver:** Solved **450+ problems on LeetCode**, mastering Data Structures, Algorithms, and System Architecture.
 - 💻 **Engineering Stack:** Full-Stack & Backend Developer specializing in **React 19, Node.js, Express, MongoDB, Redis, WebSockets, and Applied AI**.
 - 🤖 **Applied AI & GenAI Focus:** Experienced in building **RAG pipelines, Google Gemini multimodal integrations, vector embeddings, and semantic search**.
-- 🎯 **Career Focus:** Full Stack Development, Backend Engineering, Scalable Distributed Systems, and Applied AI.
+- 🎯 **Career Focus:** Full Stack Development, Backend Engineering, Scalable Systems, and Applied AI.
 
 <br/>
 
@@ -87,10 +87,10 @@
 
 - **Languages:** `Java`, `JavaScript (ES6+)`, `TypeScript`, `SQL`
 - **Frontend Development:** `React (React 19)`, `Redux Toolkit`, `TanStack React Query`, `Tailwind CSS`, `HTML5`, `CSS3`
-- **Backend & Real-Time:** `Node.js`, `Express.js`, `RESTful APIs`, `WebSockets`, `Socket.io`, `Node-cron`
+- **Backend & Real-Time:** `Node.js`, `Express.js`, `RESTful APIs`, `WebSockets`, `Socket.io`
 - **Databases & Caching:** `MongoDB`, `PostgreSQL`, `MySQL`, `Redis`
-- **AI & Applied GenAI:** `Google Gemini Multimodal AI`, `Retrieval-Augmented Generation (RAG)`, `Vector Embeddings`, `Cosine Similarity`, `Semantic Search`, `Prompt Engineering`
-- **DevOps, Cloud & Servers:** `Docker`, `Docker Compose`, `Nginx`, `Vercel`, `Render`, `Cloudinary`, `ImageKit`
+- **AI & Applied GenAI:**  `Retrieval-Augmented Generation (RAG)`, `Vector Embeddings`, `Cosine Similarity`, `Semantic Search`, `Prompt Engineering`
+- **DevOps, Cloud & Servers:** `Docker`, `Nginx`, `Vercel`, `Render`, `Cloudinary`, `ImageKit`
 - **Security & Authentication:** `JWT`, `HTTP-only Cookies`, `Role-Based Access Control (RBAC)`, `CORS`
 - **Developer Tools:** `Git`, `GitHub`, `Postman`, `VS Code`, `Linux Shell`
 - **Foundations & Coursework:** `Data Structures and Algorithms`, `System Design (HLD)`, `OOP`, `DBMS`, `Operating Systems`, `Computer Networks`
